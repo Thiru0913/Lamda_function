@@ -1,7 +1,6 @@
-# Lamda_function
+# Lamda_function (backs up data from an Amazon RDS (Relational Database Service) instance to an Amazon S3 bucket)
 
 
- Let's create an example of a scheduled data backup using Lambda that backs up data from an Amazon RDS (Relational Database Service) instance to an Amazon S3 bucket.
 
 Assumptions:
 
